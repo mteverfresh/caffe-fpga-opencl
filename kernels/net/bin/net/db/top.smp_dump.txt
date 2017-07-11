@@ -1,0 +1,11 @@
+
+State Machine - |top|system:system_inst|net_system:net_system|dataLayer_top_wrapper_0:dataLayer_inst_0|dataLayer_function_wrapper:kernel|dataLayer_function:dataLayer_function_inst0|dataLayer_basic_block_2:dataLayer_basic_block_2|lsu_top:lsu_local_bb2_ld_|lsu_bursting_read:bursting_read|lsu_bursting_pipelined_read:pipelined_read|scfifo:GEN_SINGLE_WORD_RD_NEXT.offset_fifo|sm_almost_full
+Name state_af 
+state_naf 0 
+state_af 1 
+
+State Machine - |top|system:system_inst|net_system:net_system|dataLayer_top_wrapper_0:dataLayer_inst_0|dataLayer_function_wrapper:kernel|dataLayer_function:dataLayer_function_inst0|dataLayer_basic_block_2:dataLayer_basic_block_2|lsu_top:lsu_local_bb2_ld_|lsu_bursting_read:bursting_read|lsu_bursting_pipelined_read:pipelined_read|scfifo:GEN_SINGLE_WORD_RD_NEXT.offset_fifo|a_fffifo:subfifo|a_fefifo:fifo_state|sm_emptyfull
+Name state_middle state_full state_empty 
+state_empty 0 0 0 
+state_middle 1 0 1 
+state_full 0 1 1 

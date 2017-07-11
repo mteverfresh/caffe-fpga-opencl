@@ -1,0 +1,486 @@
+var spvData = '
+{
+  "functions":
+  [
+    {
+      "type":"container"
+      , "id2":1
+      , "name":"dataLayer"
+      , "file":""
+      , "line":"0"
+      , "order":0
+      , "children":[
+        {
+          "type":"container"
+          , "id2":2
+          , "name":""
+          , "file":""
+          , "line":"0"
+          , "order":0
+          , "children":[
+            {
+              "type":"bb"
+              , "id2":3
+              , "name":"Basic Block 0"
+              , "file":""
+              , "line":"0"
+              , "order":0
+            }
+            ,
+            {
+              "type":"bb"
+              , "id2":4
+              , "name":"Basic Block 1"
+              , "file":""
+              , "line":"0"
+              , "order":1
+            }
+            ,
+            {
+              "type":"bb"
+              , "id2":5
+              , "name":"Basic Block 2"
+              , "file":""
+              , "line":"0"
+              , "order":2
+            }
+            ,
+            {
+              "type":"bb"
+              , "id2":6
+              , "name":"Basic Block 3"
+              , "file":""
+              , "line":"0"
+              , "order":3
+            }
+          ]
+        }
+      ]
+    }
+    ,
+    {
+      "type":"container"
+      , "id2":31
+      , "name":"paddingLayer"
+      , "file":""
+      , "line":"0"
+      , "order":0
+      , "children":[
+        {
+          "type":"container"
+          , "id2":32
+          , "name":""
+          , "file":""
+          , "line":"0"
+          , "order":0
+          , "children":[
+            {
+              "type":"bb"
+              , "id2":33
+              , "name":"Basic Block 0"
+              , "file":""
+              , "line":"0"
+              , "order":0
+            }
+            ,
+            {
+              "type":"bb"
+              , "id2":34
+              , "name":"Basic Block 1"
+              , "file":""
+              , "line":"0"
+              , "order":1
+            }
+            ,
+            {
+              "type":"bb"
+              , "id2":35
+              , "name":"Basic Block 2"
+              , "file":""
+              , "line":"0"
+              , "order":2
+            }
+            ,
+            {
+              "type":"bb"
+              , "id2":36
+              , "name":"Basic Block 3"
+              , "file":""
+              , "line":"0"
+              , "order":3
+            }
+            ,
+            {
+              "type":"bb"
+              , "id2":37
+              , "name":"Basic Block 4"
+              , "file":""
+              , "line":"0"
+              , "order":4
+            }
+            ,
+            {
+              "type":"bb"
+              , "id2":38
+              , "name":"Basic Block 5"
+              , "file":""
+              , "line":"0"
+              , "order":5
+            }
+            ,
+            {
+              "type":"bb"
+              , "id2":39
+              , "name":"Basic Block 6"
+              , "file":""
+              , "line":"0"
+              , "order":6
+            }
+            ,
+            {
+              "type":"bb"
+              , "id2":40
+              , "name":"Basic Block 7"
+              , "file":""
+              , "line":"0"
+              , "order":7
+            }
+          ]
+        }
+      ]
+    }
+    ,
+    {
+      "type":"container"
+      , "id2":71
+      , "name":"poolingLayer"
+      , "file":""
+      , "line":"0"
+      , "order":0
+      , "children":[
+        {
+          "type":"container"
+          , "id2":72
+          , "name":""
+          , "file":""
+          , "line":"0"
+          , "order":0
+          , "children":[
+            {
+              "type":"bb"
+              , "id2":73
+              , "name":"Basic Block 0"
+              , "file":""
+              , "line":"0"
+              , "order":0
+            }
+            ,
+            {
+              "type":"bb"
+              , "id2":74
+              , "name":"Basic Block 1"
+              , "file":""
+              , "line":"0"
+              , "order":1
+            }
+            ,
+            {
+              "type":"bb"
+              , "id2":75
+              , "name":"Basic Block 2"
+              , "file":""
+              , "line":"0"
+              , "order":2
+            }
+            ,
+            {
+              "type":"bb"
+              , "id2":76
+              , "name":"Basic Block 3"
+              , "file":""
+              , "line":"0"
+              , "order":3
+            }
+            ,
+            {
+              "type":"bb"
+              , "id2":77
+              , "name":"Basic Block 4"
+              , "file":""
+              , "line":"0"
+              , "order":4
+            }
+            ,
+            {
+              "type":"bb"
+              , "id2":78
+              , "name":"Basic Block 5"
+              , "file":""
+              , "line":"0"
+              , "order":5
+            }
+            ,
+            {
+              "type":"bb"
+              , "id2":79
+              , "name":"Basic Block 6"
+              , "file":""
+              , "line":"0"
+              , "order":6
+            }
+            ,
+            {
+              "type":"bb"
+              , "id2":80
+              , "name":"Basic Block 7"
+              , "file":""
+              , "line":"0"
+              , "order":7
+            }
+            ,
+            {
+              "type":"bb"
+              , "id2":81
+              , "name":"Basic Block 8"
+              , "file":""
+              , "line":"0"
+              , "order":8
+            }
+            ,
+            {
+              "type":"bb"
+              , "id2":82
+              , "name":"Basic Block 9"
+              , "file":""
+              , "line":"0"
+              , "order":9
+            }
+          ]
+        }
+      ]
+    }
+    ,
+    {
+      "type":"container"
+      , "id2":115
+      , "name":"reluLayer"
+      , "file":""
+      , "line":"0"
+      , "order":0
+      , "children":[
+        {
+          "type":"container"
+          , "id2":116
+          , "name":""
+          , "file":""
+          , "line":"0"
+          , "order":0
+          , "children":[
+            {
+              "type":"bb"
+              , "id2":117
+              , "name":"Basic Block 0"
+              , "file":""
+              , "line":"0"
+              , "order":0
+            }
+            ,
+            {
+              "type":"bb"
+              , "id2":118
+              , "name":"Basic Block 1"
+              , "file":""
+              , "line":"0"
+              , "order":1
+            }
+            ,
+            {
+              "type":"bb"
+              , "id2":119
+              , "name":"Basic Block 2"
+              , "file":""
+              , "line":"0"
+              , "order":2
+            }
+            ,
+            {
+              "type":"bb"
+              , "id2":120
+              , "name":"Basic Block 3"
+              , "file":""
+              , "line":"0"
+              , "order":3
+            }
+          ]
+        }
+      ]
+    }
+    ,
+    {
+      "type":"container"
+      , "id2":144
+      , "name":"convLayer"
+      , "file":""
+      , "line":"0"
+      , "order":0
+      , "children":[
+        {
+          "type":"container"
+          , "id2":145
+          , "name":""
+          , "file":""
+          , "line":"0"
+          , "order":0
+          , "children":[
+            {
+              "type":"bb"
+              , "id2":146
+              , "name":"Basic Block 0"
+              , "file":""
+              , "line":"0"
+              , "order":0
+            }
+            ,
+            {
+              "type":"bb"
+              , "id2":147
+              , "name":"Basic Block 1"
+              , "file":""
+              , "line":"0"
+              , "order":1
+            }
+            ,
+            {
+              "type":"bb"
+              , "id2":148
+              , "name":"Basic Block 2"
+              , "file":""
+              , "line":"0"
+              , "order":2
+            }
+            ,
+            {
+              "type":"bb"
+              , "id2":149
+              , "name":"Basic Block 3"
+              , "file":""
+              , "line":"0"
+              , "order":3
+            }
+            ,
+            {
+              "type":"bb"
+              , "id2":150
+              , "name":"Basic Block 4"
+              , "file":""
+              , "line":"0"
+              , "order":4
+            }
+            ,
+            {
+              "type":"bb"
+              , "id2":151
+              , "name":"Basic Block 5"
+              , "file":""
+              , "line":"0"
+              , "order":5
+            }
+            ,
+            {
+              "type":"bb"
+              , "id2":152
+              , "name":"Basic Block 6"
+              , "file":""
+              , "line":"0"
+              , "order":6
+            }
+            ,
+            {
+              "type":"bb"
+              , "id2":153
+              , "name":"Basic Block 7"
+              , "file":""
+              , "line":"0"
+              , "order":7
+            }
+            ,
+            {
+              "type":"bb"
+              , "id2":154
+              , "name":"Basic Block 8"
+              , "file":""
+              , "line":"0"
+              , "order":8
+            }
+            ,
+            {
+              "type":"bb"
+              , "id2":155
+              , "name":"Basic Block 9"
+              , "file":""
+              , "line":"0"
+              , "order":9
+            }
+          ]
+        }
+      ]
+    }
+    ,
+    {
+      "type":"container"
+      , "id2":190
+      , "name":"outputLayer"
+      , "file":""
+      , "line":"0"
+      , "order":0
+      , "children":[
+        {
+          "type":"container"
+          , "id2":191
+          , "name":""
+          , "file":""
+          , "line":"0"
+          , "order":0
+          , "children":[
+            {
+              "type":"bb"
+              , "id2":192
+              , "name":"Basic Block 0"
+              , "file":""
+              , "line":"0"
+              , "order":0
+            }
+            ,
+            {
+              "type":"bb"
+              , "id2":193
+              , "name":"Basic Block 1"
+              , "file":""
+              , "line":"0"
+              , "order":1
+            }
+            ,
+            {
+              "type":"bb"
+              , "id2":194
+              , "name":"Basic Block 2"
+              , "file":""
+              , "line":"0"
+              , "order":2
+            }
+            ,
+            {
+              "type":"bb"
+              , "id2":195
+              , "name":"Basic Block 3"
+              , "file":""
+              , "line":"0"
+              , "order":3
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+';
